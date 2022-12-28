@@ -3,7 +3,7 @@ title: Freds Deer Jerky
 categories:
   - Snacks
 date: 2022-12-28
-featured_image: /images/Drunken-Hot-Deer-7.jpg
+featured_image: ![Deer Jerky](/images/Drunken-Hot-Deer-7.jpg)
 recipe:
   servings: 4 servings
   prep: 10 minutes
@@ -30,4 +30,3 @@ recipe:
     3. Marinate in fridge for 24 hours
     4. Put into dehydrator until dry
 ---
-Fred's Deer Jerky

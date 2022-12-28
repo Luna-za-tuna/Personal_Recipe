@@ -41,4 +41,3 @@ recipe:
     13. Meanwhile, add arugula to the bowl with the dressing and bell pepper; toss to combine the salad.
     14. Slice flatbreads, divide between plates, and sprinkle with reserved basil. Serve with salad on the side and enjoy!
 ---
-Stuff here
