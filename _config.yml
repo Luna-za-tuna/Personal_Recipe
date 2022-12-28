@@ -2,8 +2,8 @@
 # Site
 
 title: Luna's Recipies
-url: "https://spring-bat.cloudvent.net/"
-baseurl:
+url: "https://luna-za-tuna.github.io/Personal_Recipe/"
+baseurl:"https://luna-za-tuna.github.io/Personal_Recipe/"
 google_analytics_key:
 newsletter_action:
 disqus_shortname:
