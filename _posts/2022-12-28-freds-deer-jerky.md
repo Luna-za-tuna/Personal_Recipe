@@ -24,7 +24,7 @@ recipe:
     * 1 tbsp mustard (to taste)
     * 3 tbsp honey
     * 1 tbsp crushed red pepper
-  directions_markdown:
+  directions_markdown: |-
     1. Mix all ingredients
     2. Put in bag with sliced meat
     3. Marinate in fridge for 24 hours
