@@ -3,7 +3,7 @@ title: Freds Deer Jerky
 categories:
   - Snacks
 date: 2022-12-28
-featured_image: {{site.baseurl}}images/Drunken-Hot-Deer-7.jpg
+featured_image: {{site.baseurl}}/images/Drunken-Hot-Deer-7.jpg
 recipe:
   servings: 4
   prep: 10 minutes
