@@ -30,3 +30,4 @@ recipe:
     3. Marinate in fridge for 24 hours
     4. Put into dehydrator until dry
 ---
+Fred's Deer Jerky
