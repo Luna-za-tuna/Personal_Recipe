@@ -17,7 +17,7 @@ recipe:
     * 1/4 cup melted butter
   directions_markdown: |-
     1. Heat oven to 350F
-    2. Mix everything but he flakes and butter and place in a 9x13 pan 
+    2. Mix everything but he flakes and butter and place in a greased 9x13 pan 
     3. Mix flakes and butter and sprinkle on top 
     4. Cook for 1 hour
 ---
