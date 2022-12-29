@@ -1,8 +1,8 @@
 ---
 title: Gochujang Noodles
 categories:
-  - Dinner
-  - Pasta
+  - Dinners
+  - Pastas
 date: 2022-12-28
 featured_image:
 recipe:

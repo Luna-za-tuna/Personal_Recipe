@@ -1,7 +1,7 @@
 ---
 title: Apple Caramel Bars
 categories:
-  - Desert
+  - Deserts
 date: 2022-12-29
 featured_image:
 recipe:

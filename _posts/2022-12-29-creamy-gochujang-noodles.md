@@ -1,8 +1,8 @@
 ---
 title: Creamy Gochujang Noodles
 categories:
-- Pasta
-- Dinner
+- Pastas
+- Dinners
 date: 2022-12-29
 featured_image:
 recipe:

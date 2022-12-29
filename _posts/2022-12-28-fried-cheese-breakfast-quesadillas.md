@@ -1,7 +1,7 @@
 ---
 title: Breakfast Quesadillas with Fried Cheese
 categories:
-  - Breakfast
+  - Breakfasts
 date: 2022-12-28
 featured_image:
 recipe:

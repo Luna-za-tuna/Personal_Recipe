@@ -1,7 +1,7 @@
 ---
 title: Garlic Confit
 categories:
-  - Other
+  - Others
 date: 2022-12-28
 featured_image:
 recipe:

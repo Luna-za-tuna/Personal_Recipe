@@ -2,7 +2,7 @@
 title: Ultimate Chocolate Chip Cookies
 categories:
   - Cookies
-  - Desert
+  - Deserts
 date: 2022-12-28
 featured_image:
 recipe:

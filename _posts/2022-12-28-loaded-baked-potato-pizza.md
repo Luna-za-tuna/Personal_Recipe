@@ -1,8 +1,8 @@
 ---
 title: Loaded Baked Potato Pizza
 categories:
-  - Dinner 
-  - Pizza
+  - Dinners
+  - Pizzas
 date: 2022-12-28
 featured_image:
 recipe:

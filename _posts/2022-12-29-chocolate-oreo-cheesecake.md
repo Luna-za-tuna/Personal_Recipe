@@ -1,7 +1,7 @@
 ---
 title: Oreo and White Chocolate Cheesecake
 categories:
-  - Desert
+  - Deserts
   - Cakes
 date: 2022-12-29
 featured_image:

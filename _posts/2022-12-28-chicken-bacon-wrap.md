@@ -1,7 +1,7 @@
 ---
 title: Spicy Chicken Bacon Wrap
 categories:
-  - Dinner
+  - Dinners
 date: 2022-12-28
 featured_image: https://iwashyoudry.com/wp-content/uploads/2019/06/Chicken-Bacon-Ranch-Wrap-2.jpg
 recipe:
