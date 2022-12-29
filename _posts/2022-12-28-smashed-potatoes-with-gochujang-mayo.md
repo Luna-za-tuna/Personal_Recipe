@@ -1,8 +1,8 @@
 ---
 title: Crispy Smashed Potatoes with Gochujang Spicy Mayo
 categories:
-  - Snack 
-  - Appetizer 
+  - Snacks
+  - Appetizers
   - Sides
 date: 2022-12-28
 featured_image:
