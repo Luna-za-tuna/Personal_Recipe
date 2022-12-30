@@ -4,7 +4,7 @@ categories:
   - Meals
   - Pastas
 date: 2022-12-30
-featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/sundried-tomato-chicken-pasta.jpg
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/sundried_tomato_chicken_pasta.jpg
 recipe:
   servings: 6
   prep: 15 Minutes
