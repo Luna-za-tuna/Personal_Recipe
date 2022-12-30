@@ -4,7 +4,7 @@ categories:
   - Snacks
   - Appetizers 
 date: 2022-12-29
-featured_image:
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/acovado_hummus.jpg
 recipe:
   servings:
   prep:
