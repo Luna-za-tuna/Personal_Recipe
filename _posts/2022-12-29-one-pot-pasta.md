@@ -29,4 +29,4 @@ recipe:
     4. Cook for 25-30 minutes.
     5. Top with some cheese.
 ---
-https://www.instagram.com/p/Ce9dLPiFF6k/
+<https://www.instagram.com/p/Ce9dLPiFF6k/>

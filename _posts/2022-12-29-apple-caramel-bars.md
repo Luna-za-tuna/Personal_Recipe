@@ -9,19 +9,28 @@ recipe:
   prep:
   cook:
   ingredients_markdown: |-
+    * **Crust Ingredients:**
     * 2 1/4 cup oats
-    * 1 1/2 cup flour
-    * 2 tsp cinnamon
+    * 1 1/2 cup almond flour
+    * 1 tsp cinnamon
     * 1 1/2 tsp baking powder
     * 3/4 cup maple syrup
     * 1/3 cup coconut oil
-    * 1 3/4 tsp vanilla
-    * salt
-    * 3 medium apples
-    * lemon juice
-    * 1 cup coconut sugar
+    * 1 tsp vanilla
+    * dash of salt
+    * **Filling Ingredients:**
+    * 3 medium sized apples
+    * juice of 1/2 lemon
+    * 1/3 cup coconut sugar
+    * 1/2 tsp vanilla
+    * 1 tsp cinnamon
     * 2 tbsp cornstarch
-    * 1/3 cup coconut cream 
+    * **Caramel Sauce**
+    * 1/3 cup coconut cream
+    * 1/2 cup coconut sugar 
+    * 1 tsp cornstarch
+    * 1/4 tsp vanilla
+    * 1/4 tsp salt
   directions_markdown: |-
     1. Preheat oven to 400F
     2. In a large bowl, combine the oats, flour, baking powder, syrup, oil, vanilla, and salt.
@@ -32,4 +41,4 @@ recipe:
     7. Pour apple filling in dish, then add remaining crust mixture on top
     8. Bake for 30-35 minutes
 ---
-https://www.instagram.com/p/CeeFa2ygX-K/
+<https://www.instagram.com/p/CeeFa2ygX-K/>

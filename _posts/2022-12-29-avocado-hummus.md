@@ -23,4 +23,4 @@ recipe:
     2. To a food processor, add the chickpeas, avocado, cilantro, garlic, juice of 1 lime, and oil. Blend the ingredients for several minutes, until you have a creamy consistency and all of the ingredients are well combined.
     3. Taste the avocado hummus and add salt and pepper (as much as you like according to your taste).
 ---
-https://www.instagram.com/p/CeoXM0uAquT/
+<https://www.instagram.com/p/CeoXM0uAquT/>

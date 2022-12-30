@@ -34,4 +34,4 @@ recipe:
     8. Stir in the sauce. Let it simmer and reduce for 5 minutes or until thick and glossy.
     9. Add back in fried chicken and mix. Optional, garnish with green onions. Remove off heat and serve to enjoy!
 ---
-https://christieathome.com/blog/sweet-sticky-korean-chicken/
+<https://christieathome.com/blog/sweet-sticky-korean-chicken/>
