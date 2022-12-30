@@ -31,3 +31,4 @@ recipe:
     5. In the meantime mix mayo, gochujang, vinegar, sriracha, sugar, salt, and pepper
     6. Serve potatoes with mayo mixture
 ---
+https://www.instagram.com/p/Cd88jl3tmvv/
