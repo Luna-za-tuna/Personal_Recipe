@@ -3,7 +3,7 @@ title: Sweet Spicy Korean Chicken
 categories:
   - Dinners
 date: 2022-12-29
-featured_image:
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/Sweet-Sticky-Korean-Chicken-10.jpg
 recipe:
   servings:
   prep:
@@ -34,3 +34,4 @@ recipe:
     8. Stir in the sauce. Let it simmer and reduce for 5 minutes or until thick and glossy.
     9. Add back in fried chicken and mix. Optional, garnish with green onions. Remove off heat and serve to enjoy!
 ---
+https://christieathome.com/blog/sweet-sticky-korean-chicken/
