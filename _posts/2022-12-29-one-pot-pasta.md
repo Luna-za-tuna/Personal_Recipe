@@ -2,7 +2,7 @@
 title: One Pot Pasta
 categories:
   - Pastas
-  - Dinners
+  - Meals
 date: 2022-12-29
 featured_image:
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Spinach & Cream Chicken Pasta
 categories:
-  - Dinners
+  - Meals
   - Pastas
 date: 2022-12-29
 featured_image:

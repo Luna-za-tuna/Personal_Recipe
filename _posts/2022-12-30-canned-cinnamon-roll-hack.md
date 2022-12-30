@@ -1,7 +1,7 @@
 ---
 title: Canned Cinnamon Roll Hack
 categories: 
-  - Breakfast
+  - Breakfasts
 date: 2022-12-30
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/canned_cinnamon_roll_hack.jpg
 recipe:

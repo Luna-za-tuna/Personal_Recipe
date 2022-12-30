@@ -2,7 +2,7 @@
 date: 2022-12-28
 title: Roasted Tomato, Onion & Mozzarella Flatbread with Arugula-Caper Salad
 categories:
-  - Dinners
+  - Meals
   - Pizzas
 featured_image: https://cdn-uploads.mealime.com/uploads/recipe/thumbnail/2200/presentation_e05d2589-f7d8-4014-8080-8324127bb3af.jpeg
 recipe:

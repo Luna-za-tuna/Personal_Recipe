@@ -1,7 +1,7 @@
 ---
 title: Sweet Spicy Korean Chicken
 categories:
-  - Dinners
+  - Meals
 date: 2022-12-29
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/Sweet-Sticky-Korean-Chicken-10.jpg
 recipe:

@@ -1,7 +1,7 @@
 ---
 title: Taco Chicken
 categories:
-  - Dinners
+  - Meals
 date: 2022-12-28
 featured_image:
 recipe:
