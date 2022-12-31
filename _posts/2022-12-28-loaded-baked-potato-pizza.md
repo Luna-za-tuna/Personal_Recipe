@@ -15,11 +15,13 @@ recipe:
     * 2 russet potatoes
     * ranch 
     * cheddar cheese
+    * green onions (scallions)
   directions_markdown: |-
     1. Put bacon into cold oven on a baking sheet and set the oven to 450F
     2. Slice potatoes into strips and boil till just starting to become tender 
     3. Spread ranch on the pizza dough like you would sauce
     4. Chop bacon into bits
-    5. Add bacon, potatoes, and cheese to pizza dough
-    6. bake for 12 minutes
+    5. Chop green onion
+    6. Add bacon, potatoes, green onions, and cheese to pizza dough
+    7. bake for 12 minutes
 ---
