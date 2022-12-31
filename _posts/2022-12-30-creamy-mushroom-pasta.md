@@ -3,7 +3,7 @@ title: Creamy Mushroom Pasta
 categories:
   - Pastas
   - Meals
-date:
+date: 2022-12-30
 featured_image: 
 recipe:
   servings: n/a
