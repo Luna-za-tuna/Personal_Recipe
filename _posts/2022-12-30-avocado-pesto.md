@@ -1,7 +1,9 @@
 ---
-title:
+title: Avocado Pesto
 categories:
-date:
+  - Pastas
+  - Meals
+date: 2022-12-30
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/avocado_pesto.webp
 recipe:
   servings: n/a
