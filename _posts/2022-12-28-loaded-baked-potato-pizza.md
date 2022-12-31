@@ -4,13 +4,13 @@ categories:
   - Meals
   - Pizzas
 date: 2022-12-28
-featured_image:
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/loaded_baked_potato_pizza.jpg
 recipe:
   servings: 1 Pizza
   prep: n/a
   cook: n/a
   ingredients_markdown: |- 
-    * 1 Pack of bacon
+    * 4-6 slices of bacon
     * Pizza dough (can be store bought)
     * 2 russet potatoes
     * ranch 
