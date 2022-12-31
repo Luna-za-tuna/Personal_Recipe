@@ -1,0 +1,31 @@
+---
+title: Beer Cheese Dip
+categories:
+  - Appetizers
+date: 2022-12-31
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/beer_cheese_dip.jpg
+recipe:
+  servings: n/a
+  prep: n/a
+  cook: n/a
+  ingredients_markdown: |-
+    * 4 tbsp Butter
+    * 1/4 cup Flour
+    * 3/4 tsp Garlic Powder
+    * 1/2 tsp Onion Powder
+    * 1/2 tsp Cayenne Pepper
+    * 1 cup Milk
+    * 3/4 cup Beer
+    * 1 tsp Dijon Mustard
+    * 1 tsp Worcestershire
+    * 2 1/2 cup Sharp Cheddar
+    * 1 cup Gruyère
+  directions_markdown: |-
+    1. In a saucepan over medium heat, melt the butter. 
+    2. Add the flour, garlic and onion powder, cayenne and stir cooking for 1 minute. 
+    3. Slowly incorporate the milk and beer of your choice. 
+    4. Add the Worcestershire and Dijon and mix. Bring to a low simmer then remove the heat. 
+    5. Add the cheese and give it one final mix. 
+    6. Add to a dish or put in a crock pot and keep warm
+---
+<https://www.instagram.com/p/Ci8MjaMPR5a/>
