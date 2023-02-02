@@ -2,6 +2,7 @@
 title: Beer Cheese Dip
 categories:
   - Appetizers
+  - Dips
 date: 2022-12-31
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/beer_cheese_dip.jpg
 recipe:

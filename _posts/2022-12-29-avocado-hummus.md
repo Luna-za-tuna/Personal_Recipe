@@ -1,8 +1,8 @@
 ---
 title: Avocado Hummus
 categories:
-  - Snacks
   - Appetizers 
+  - Dips
 date: 2022-12-29
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/acovado_hummus.jpg
 recipe:
