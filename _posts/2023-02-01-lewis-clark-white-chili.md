@@ -3,7 +3,7 @@ title: Lewis & Clark's White Chili
 categories:
   - Meals
   - Soups
-date:
+date: 2023-02-01
 featured_image: 
 recipe:
   servings: 8
