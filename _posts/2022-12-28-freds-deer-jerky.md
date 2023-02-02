@@ -29,4 +29,6 @@ recipe:
     2. Put in bag with sliced meat
     3. Marinate in fridge for 24 hours
     4. Put into dehydrator until dry
+  notes_markdown: |- 
+    * You can use tenderizer also if you want a softer jerky
 ---

@@ -9,4 +9,5 @@ recipe:
   cook: n/a
   ingredients_markdown: |-
   directions_markdown: |-
+  notes_markdown: |-
 ---
