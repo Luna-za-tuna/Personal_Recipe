@@ -1,5 +1,5 @@
 ---
-title:Soft Garlic Herb Cheddar Cheese Bread
+title: Soft Garlic Herb Cheddar Cheese Bread
 categories:
   - Bread
 date: 2022-12-31
