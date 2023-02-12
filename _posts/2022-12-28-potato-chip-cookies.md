@@ -28,4 +28,6 @@ recipe:
     7. Roll dough into balls and then roll into remaining chips to coat ball
     8. Place on baking sheet
     9. Bake for 15 Minutes
+  notes_markdown: |- 
+    * Wavy potato chips seems to help with texture 
 ---
