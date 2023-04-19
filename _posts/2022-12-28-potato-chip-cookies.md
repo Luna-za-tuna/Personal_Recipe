@@ -4,9 +4,9 @@ categories:
   - Desserts
   - Cookies
 date: 2022-12-28
-featured_image: https://images.food52.com/vISwWP5HfI5U3FyY0aTsucm13Hk=/1200x1200/edd2cc19-ac5b-4338-a57b-55099750dd87--2021-0914_potato-chip-cookie_3x2_julia-gartland_017.jpg
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/potato_chip_cookies.jpg
 recipe:
-  servings: 24 cookeis
+  servings: 24 cookies
   prep: 10 minutes
   cook: 15 minutes/batch
   ingredients_markdown: |-

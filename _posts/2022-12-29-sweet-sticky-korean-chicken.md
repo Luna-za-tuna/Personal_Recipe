@@ -14,6 +14,7 @@ recipe:
     * 1/3 cup green onion, finely chopped (garnish)
     * 1 white onion, diced
     * 1/3 cup avocado oil, or vegetable oil
+    * **Sauce:**
     * 1 1/2 tbsp garlic minced
     * 1/3 cup green onion, finely chopped
     * 1 tbsp sesame seeds
