@@ -7,8 +7,7 @@ image_view: true
 
 
 {% if page.image_view %}
-	{% assign sortedCategories = site.categories | sort: 'categories' %}
-	{% for category in sortedCategories %}
+	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
