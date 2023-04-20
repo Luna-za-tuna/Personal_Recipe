@@ -3,7 +3,7 @@ title: Airfryer Potato Wedges
 categories: 
   - Sides 
   - Appetizers
-date: 2023-04-23
+date: 2023-04-20
 featured_image: 
 recipe:
   servings: n/a
