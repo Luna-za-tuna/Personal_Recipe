@@ -1,7 +1,7 @@
 ---
 title: Drunken Marg
 categories: 
-  - Alcohol Drinks
+  - Drinks (Alcohol)
 date: 2023-04-20
 featured_image: 
 recipe:
