@@ -7,17 +7,15 @@ image_view: true
 
 
 {% if page.image_view %}
-	{% assign sortedCategories = site.categories | sort: 'categories' %}
-	{% for category in sortedCategories %}
-	{% capture thecategory %} category[0] {% endcapture %}
-		<h2> {% if thecategory %}{{ thecategory | escape }}{% else %}{{ category[0] | escape }}{% endif %} </h2>
+	{% assign sorted_cats = site.categories | sort %}
+	{% for category in sorted_cats %}
+		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}
-			{% capture therecipe %} recipe.title {% endcapture %} 
-			<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-				<a href="{{ site.baseurl }}{{ recipe.url }}"><span> {% if therecipe %}{{ therecipe | escape }}{% else %}{{ recipe.title | escape }}{% endif %} </span></a>
-			</div>
-		{% endfor %}
+				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+					<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
+				</div>
+			{% endfor %}
 		</div>
 	{% endfor %}
 {% endif %}
