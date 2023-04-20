@@ -7,17 +7,16 @@ image_view: true
 
 
 {% if page.image_view %}
-	{% capture categories %}
-		{% assign sortedCategories = site.categories | sort: 'categories' %}
-		{% for category in sortedCategories %}
-			<h2>{{ category[0] }}</h2>
-			<div class="recipes">
-				{% for recipe in category[1] %}
-				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-					<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-				</div>
-			{% endfor %}
+	{% assign sortedCategories = site.categories | sort: 'categories' %}
+	{% for category in sortedCategories %}
+	{% capture thecategory %}category[0]{%endcapture%}
+		<h2>{{ thecategory }}</h2>
+		<div class="recipes">
+			{% for recipe in category[1] %}
+			<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+				<a href="{{ site.baseurl }}{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
 			</div>
 		{% endfor %}
-	{% endcapture %}
+		</div>
+	{% endfor %}
 {% endif %}
