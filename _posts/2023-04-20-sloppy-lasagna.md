@@ -13,7 +13,7 @@ recipe:
     * 12 oz egg noodles 
     * 2 cups grated cheddar 
     * 2 cups grated mozzarella 
-    * 1 cup source cream 
+    * 1 cup sour cream 
     * 1 cup yogurt 
     * 1/2 cup grated parmesan cheese 
     * 1 tsp dried oregano 
