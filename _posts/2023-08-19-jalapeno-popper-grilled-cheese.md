@@ -2,7 +2,7 @@
 title: Jalapeno Popper Grilled Cheese
 categories: 
   - Meals
-date: 
+date: 2023-08-19
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/jalapeno_popper_grilled_cheese.webp
 recipe:
   servings: n/a
