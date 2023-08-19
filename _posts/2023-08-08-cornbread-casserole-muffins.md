@@ -1,7 +1,7 @@
 ---
 title: Cornbread Casserole Muffins
 categories: 
-  - Breakfast
+  - Breakfasts
 date: 2023-08-08
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/
 recipe:
