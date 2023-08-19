@@ -2,7 +2,7 @@
 title: Texas Toast Pizza
 categories: 
   - Meals
-  - Pizza
+  - Pizzas
 date: 2023-08-08
 featured_image: 
 recipe:
