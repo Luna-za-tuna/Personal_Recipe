@@ -1,5 +1,5 @@
 ---
-title: Sweet Spicy Korean Chicken
+title: Sweet Sticky Korean Chicken
 categories:
   - Meals
 date: 2022-12-29
