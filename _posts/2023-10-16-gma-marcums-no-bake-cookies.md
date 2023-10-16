@@ -6,7 +6,7 @@ categories:
 date: 2023-10-18
 featured_image: 
 recipe:
-  servings: 15-20
+  servings: 20
   prep: n/a
   cook: n/a
   ingredients_markdown: |-
