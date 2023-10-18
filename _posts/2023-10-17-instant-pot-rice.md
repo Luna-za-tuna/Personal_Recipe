@@ -15,7 +15,7 @@ recipe:
     1. Wash rice 
     2. Add rice and water to instant pot 
     3. Pressure cook high for 3 minutes 
-    4. Let pressure decrease naturally for 10 minutes then vent raining pressure 
+    4. Let pressure decrease naturally for 10 minutes then vent remaining pressure 
   notes_markdown: |-
     * Each half cup of rice is about 1 serving. This can be scaled up or down as much as needed 
 ---
