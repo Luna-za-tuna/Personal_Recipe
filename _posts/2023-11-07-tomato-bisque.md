@@ -35,7 +35,7 @@ recipe:
     1. Saute 4 tbsp salted butter, diced white onion, and 1/2 cup carrot till soft
     2. Add garlic and thyme and saute till fragrant
     3. Mix in 1/3 cup toasted red pepper, 2 tbsp sundried tomatoes, and 2 tbsp tomato paste
-    4. Add 28 oz diced fire roasted tomatoes, 2 1/2 cups broth, and remaining spices
+    4. Add 28 oz diced fire roasted tomatoes, 2 1/2 cups broth, 1 1/2 tsp sugar and remaining spices
     5. Simmer mixture for 15 minutes
     6. Add fresh basil and blend mixture 
     7. Add 1 cup heavy cream and 1/4 cup parmesan cheese
