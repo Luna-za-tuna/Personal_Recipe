@@ -26,5 +26,5 @@ recipe:
     3. Add everything to a slow cooker and mix 
     4. Cook for 4 hours on high 
   notes_markdown: |-
-    * To cook in an instant pot, add everything but the cheeses and heavy cream. Cook on high for 24 minutes. Soften cream cheese and add all the dairy when it's don't. Let it sit and then mix thoroughly. 
+    * To cook in an instant pot, add everything but the cheeses and heavy cream. Cook on high for 24 minutes. Soften cream cheese and add all the dairy when it's done. Let it sit and then mix thoroughly. 
 ---
