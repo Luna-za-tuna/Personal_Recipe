@@ -37,5 +37,6 @@ recipe:
     10. Add a layer of noodles, then sauce, then chicken, then mozzarella
     11. Repeat the layering 3 more times making sure to use up all the ingredients
     12. Bake 30 minutes covered and then uncover and broil till cheese is browned
+    13. Top with parsley and serve
   notes_markdown: |-
 ---
