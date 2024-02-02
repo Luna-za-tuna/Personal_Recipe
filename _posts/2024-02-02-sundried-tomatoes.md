@@ -25,5 +25,5 @@ recipe:
     9. Top with more basil and fill with olive oil till it covers all the tomatoes
     10. Add a pinch of salt if desired
   notes_markdown: |-
-  * Keep refrigerated for about 3 weeks
+    * Keep refrigerated for about 3 weeks
 ---
