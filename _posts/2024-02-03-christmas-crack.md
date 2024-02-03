@@ -27,6 +27,6 @@ recipe:
     10. Let the chocolate chips sit on the hot pretzels for 5 minutes. The heat will soften the chocolate. Spread chocolate chips with a knife and sprinkle flaky salt on top.
     11. Let the Christmas crack harden for 3 hours before breaking in pieces. If you're in a hurry you can freeze for 10 minutes and then break apart. It's best to let it harden at room temperature, however. 
   notes_markdown: |-
-  https://cooklikelauren.com/desserts/christmas-crack/
-  https://www.instagram.com/p/C0Z4sp6uTFq/
 ---
+https://cooklikelauren.com/desserts/christmas-crack/
+https://www.instagram.com/p/C0Z4sp6uTFq/
