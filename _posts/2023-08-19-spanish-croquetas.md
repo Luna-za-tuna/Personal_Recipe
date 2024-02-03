@@ -33,4 +33,4 @@ recipe:
   notes_markdown: |-
     * Could be sprayed with veggie oil and placed in an air fryer instead of pan fried
 ---
-https://my.whisk.com/recipes/10754975af461b848d2a446b2ceead913dc
+<https://my.whisk.com/recipes/10754975af461b848d2a446b2ceead913dc>

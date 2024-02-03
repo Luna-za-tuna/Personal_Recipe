@@ -24,4 +24,4 @@ recipe:
     4. Take your bread, spread some of the cheese mixtures, place a few jalapenos on, and spread the other piece of bread with cheese and top. Butter the outside of the bread and cook like grilled cheese on low heat. Done when crispy outside and melty inside. ENJOY.
   notes_markdown: |-
 ---
-https://blakemenard.com/339-2/
+<https://blakemenard.com/339-2/>

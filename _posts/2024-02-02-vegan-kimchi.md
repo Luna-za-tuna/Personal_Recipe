@@ -43,4 +43,4 @@ recipe:
     15. can be eaten immediately or let ot sit for about 1 week to ferment
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C17THCRryHA/
+<https://www.instagram.com/p/C17THCRryHA/>

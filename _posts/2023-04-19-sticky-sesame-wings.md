@@ -39,4 +39,4 @@ recipe:
     9. Once cooled and the wings are fully cooked, add the hot wings into the sauce and coat well and serve fresh. 
   notes_markdown: |-
 ---
-https://www.instagram.com/p/Chru7PloD_P/
+<https://www.instagram.com/p/Chru7PloD_P/>

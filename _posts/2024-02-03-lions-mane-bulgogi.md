@@ -39,4 +39,4 @@ recipe:
     15. You can top with green onion, sesame seeds and anything else you may like
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C1zYksfK8bu/
+<https://www.instagram.com/p/C1zYksfK8bu/>

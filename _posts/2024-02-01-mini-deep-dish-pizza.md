@@ -28,4 +28,4 @@ recipe:
     5. Top the pizzas with parmesan immediately after they come out of the oven along with red pepper flakes (if desired).
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C2hyMcSuq_y/
+<https://www.instagram.com/p/C2hyMcSuq_y/>

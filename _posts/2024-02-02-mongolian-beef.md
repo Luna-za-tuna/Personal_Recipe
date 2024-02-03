@@ -41,4 +41,4 @@ recipe:
     11. Let thicken and then serve
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C2s7jFwvUyh/
+<https://www.instagram.com/p/C2s7jFwvUyh/>

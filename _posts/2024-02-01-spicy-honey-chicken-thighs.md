@@ -37,4 +37,4 @@ recipe:
     6. Squeeze on some lime juice and parsley.
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C179lakgOhJ/
+<https://www.instagram.com/p/C179lakgOhJ/>

@@ -39,4 +39,4 @@ recipe:
     11. Add tofu to rolls/bun and add cheese sauce 
   notes_markdown: |-
 ---
-https://theeburgerdude.com/tofu-cheesesteak/#mv-creation-5-jtr
+<https://theeburgerdude.com/tofu-cheesesteak/#mv-creation-5-jtr>

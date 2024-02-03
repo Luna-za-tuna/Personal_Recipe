@@ -42,4 +42,4 @@ recipe:
     12. Simmer on low for about 5 minutes or until thickened and add in sesame seeds
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C1rOU0tP7gW/
+<https://www.instagram.com/p/C1rOU0tP7gW/>

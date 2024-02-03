@@ -27,4 +27,4 @@ recipe:
     7. Add sugar to taste and serve
   notes_markdown: |-
 ---
-https://www.instagram.com/p/CxZGxH9p7Av/
+<https://www.instagram.com/p/CxZGxH9p7Av/>

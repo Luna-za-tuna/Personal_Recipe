@@ -39,4 +39,4 @@ recipe:
     4. top with salt to taste
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C2FaP5dKcOh/
+<https://www.instagram.com/p/C2FaP5dKcOh/>

@@ -37,4 +37,4 @@ recipe:
     9. Bake for about 10 more minutes or cook in crock pot till cheese is melted
   notes_markdown: |-
 ---
-https://www.instagram.com/p/CoSNbLtDZgE/
+<https://www.instagram.com/p/CoSNbLtDZgE/>

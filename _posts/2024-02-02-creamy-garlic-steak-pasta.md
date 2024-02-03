@@ -43,4 +43,4 @@ recipe:
     11. Serve pasta with beef
   notes_markdown: |-
 ---
-https://www.instagram.com/p/C2W_L5-vaCL/
+<https://www.instagram.com/p/C2W_L5-vaCL/>

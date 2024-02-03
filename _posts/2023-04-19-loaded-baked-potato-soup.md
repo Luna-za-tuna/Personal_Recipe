@@ -37,4 +37,4 @@ recipe:
     10. Serve immediately, garnished with chives, and the remaining shredded cheddar cheese and bacon, if desired.
   notes_markdown: |-
 ---
-https://www.yellowblissroad.com/loaded-baked-potato-soup/
+<https://www.yellowblissroad.com/loaded-baked-potato-soup/>

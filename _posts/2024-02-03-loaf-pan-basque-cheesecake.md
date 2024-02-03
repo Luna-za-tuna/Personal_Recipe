@@ -27,5 +27,6 @@ recipe:
     8. Let the cheesecake cool down in room temperature. Set it in the fridge to cool overnight. Slice and serve.
   notes_markdown: |-
 ---
-https://u-taste.com/blogs/recipes/loaf-pan-basque-cheesecake?_pos=2&_sid=1fb9a23ec&_ss=r
-https://www.instagram.com/p/CyFxmvWhqou/
+<https://u-taste.com/blogs/recipes/loaf-pan-basque-cheesecake?_pos=2&_sid=1fb9a23ec&_ss=r>
+
+<https://www.instagram.com/p/CyFxmvWhqou/>

@@ -23,4 +23,4 @@ recipe:
     4. Air-fry at 415F for 9-10 minutes flipping them over once halfway through. 
   notes_markdown: |-
 ---
-https://www.themodernnonna.com/crispy-chicken-fingers/#recipe
+<https://www.themodernnonna.com/crispy-chicken-fingers/#recipe>

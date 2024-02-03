@@ -25,5 +25,6 @@ recipe:
     7. Carefully ladle the vanilla hot chocolate into 4 mugs. Garnish with whipped cream, and marshmallows or dust the tops with cocoa powder and enjoy!
   notes_markdown: |-
 ---
-https://themodernnonna.com/homemade-hot-chocolate/
-https://www.instagram.com/p/C0b6Sn3gUpM/
+<https://themodernnonna.com/homemade-hot-chocolate/>
+
+<https://www.instagram.com/p/C0b6Sn3gUpM/>

@@ -40,4 +40,4 @@ recipe:
     11. Add the Pasta noodles and mix until well incorporated.
   notes_markdown: |-
 ---
-https://my.whisk.com/recipes/107929151b626fb471fab62a7dd96a067f7
+<https://my.whisk.com/recipes/107929151b626fb471fab62a7dd96a067f7>

@@ -37,4 +37,4 @@ recipe:
     * To cook in an airfryer, lower temp by 25 degrees and cook for around 25 minutes while keeping an eye on it. 
     * If you do not want to do the added decoration of the whole cloves, simply omit them and instead add ⅛ teaspoon ground clove to the glaze.
 ---
-https://itdoesnttastelikechicken.com/brown-sugar-mustard-glazed-tofu/
+<https://itdoesnttastelikechicken.com/brown-sugar-mustard-glazed-tofu/>
