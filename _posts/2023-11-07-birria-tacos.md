@@ -1,9 +1,9 @@
 ---
-title: Barria Tacos
+title: Birria Tacos
 categories: 
   - Meals
 date: 2023-11-07
-featured_image: 
+featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/birria_tacos.jpg
 recipe:
   servings: n/a
   prep: n/a
