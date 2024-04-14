@@ -2,7 +2,7 @@
 title: Mini Deep Dish Pizza
 categories: 
   - Meals
-  - Pizza
+  - Pizzas
 date: 2024-02-01
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/
 recipe:
