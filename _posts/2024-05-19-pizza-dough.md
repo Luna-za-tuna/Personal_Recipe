@@ -1,7 +1,7 @@
 ---
 title: Pizza Dough
 categories: 
-  - Pizza
+  - Pizzas
 date: 2024-05-19
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/
 recipe:
