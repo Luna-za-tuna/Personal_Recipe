@@ -2,7 +2,7 @@
 title: Korean BBQ Fried Enoki
 categories: 
   - Meals
-date: 
+date: 2025-04-05
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/
 recipe:
   servings: n/a
