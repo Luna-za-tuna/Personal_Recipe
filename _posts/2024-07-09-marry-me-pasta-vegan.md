@@ -1,5 +1,5 @@
 ---
-title: Marry Me Pasta
+title: Marry Me Pasta (Vegan)
 categories: 
   - Meals
   - Pastas
