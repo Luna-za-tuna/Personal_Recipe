@@ -32,4 +32,4 @@ recipe:
   notes_markdown: |-
     * If you want to cut down on the heat omit the cayenne and make sure to use a mild Rotel!
 ---
-https://www.tiktok.com/@cookinginthemidwest/video/7387394323425316138
+<https://www.tiktok.com/@cookinginthemidwest/video/7387394323425316138>

@@ -30,4 +30,4 @@ recipe:
     7. Build sandwiches with the meat and provolone cheese. Put in the oven to broil for just a few minutes to melt the cheese. 
   notes_markdown: |-
 ---
-https://www.tiktok.com/@cookinginthemidwest/video/7396313569341590827
+<https://www.tiktok.com/@cookinginthemidwest/video/7396313569341590827>

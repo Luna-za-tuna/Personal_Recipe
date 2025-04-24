@@ -33,4 +33,4 @@ recipe:
     9. Add to a bowl, pour over the sauce, mix until thoroughly coated then serve topped with sesame seeds & spring onion
   notes_markdown: |-
 ---
-https://www.tiktok.com/@rhi.scran/video/7337743428869983521
+<https://www.tiktok.com/@rhi.scran/video/7337743428869983521>

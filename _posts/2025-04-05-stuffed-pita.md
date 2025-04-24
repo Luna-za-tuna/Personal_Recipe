@@ -45,4 +45,4 @@ recipe:
     9. Serve arayes with sauce and enjoy.
   notes_markdown: |-
 ---
-https://www.tiktok.com/@derekkchen/video/7374081044997213482
+<https://www.tiktok.com/@derekkchen/video/7374081044997213482>

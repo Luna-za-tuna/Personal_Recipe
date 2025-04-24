@@ -38,4 +38,4 @@ recipe:
     8. When it thickens, add your broccoli and beef, combine well, turn off heat, top with sesame seeds and serve with rice. 
   notes_markdown: |-
 ---
-https://www.tiktok.com/@alissanguyen_/video/7331056564310232362
+<https://www.tiktok.com/@alissanguyen_/video/7331056564310232362>

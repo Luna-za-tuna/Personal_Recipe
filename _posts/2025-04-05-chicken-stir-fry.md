@@ -40,4 +40,4 @@ recipe:
   notes_markdown: |-
     * Serves well over white rice
 ---
-https://www.tiktok.com/@susi.vidal/video/7280369053762342186
+<https://www.tiktok.com/@susi.vidal/video/7280369053762342186>

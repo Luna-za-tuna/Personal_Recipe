@@ -1,5 +1,5 @@
 ---
-title: High Protein Mac and Cheese
+title: High Protein Cheesy Pasta
 categories: 
   - Meals
   - Pastas
@@ -43,4 +43,4 @@ recipe:
     9. Turn crock pot back on and let cook for about 15-20 minutes
   notes_markdown: |-
 ---
-https://www.tiktok.com/@stealth_health_life/video/7331893231195540779
+<https://www.tiktok.com/@stealth_health_life/video/7331893231195540779>

@@ -32,4 +32,4 @@ recipe:
   notes_markdown: |-
     * Goes well with toasted bread
 ---
-https://www.tiktok.com/@amandasdinnerparty/video/7287633083942047018
+<https://www.tiktok.com/@amandasdinnerparty/video/7287633083942047018>
