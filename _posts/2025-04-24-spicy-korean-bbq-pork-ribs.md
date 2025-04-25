@@ -2,7 +2,7 @@
 title: Spicy Korean BBQ Pork Ribs
 categories: 
   - Meals
-date: 2024-04-24
+date: 2025-04-24
 featured_image: https://luna-za-tuna.github.io/Personal_Recipe/images/
 recipe:
   servings: n/a
