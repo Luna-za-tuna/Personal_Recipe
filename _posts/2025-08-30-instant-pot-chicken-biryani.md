@@ -34,3 +34,4 @@ recipe:
     10. Pressure cook low for 12 minutes then depressurize
   notes_markdown: |-
 ---
+<https://www.tiktok.com/@fadwahilili/video/7429119666037050667>
